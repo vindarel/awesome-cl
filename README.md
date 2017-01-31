@@ -307,6 +307,9 @@ HTML generators and templates
 
 URI handling
 ------------
+
+* [quri][204] - URI library with uft-8 support, IPv6 hostname, URL
+  encoding and decoding utilities. [BSD][15]
 * [puri-unicode][75] - Pure URI library with Unicode support. [LLGPL][8].
 
 Javascript
@@ -685,3 +688,4 @@ an issue to add a new framework, library or software to the list.
 [201]: https://shinmera.github.io/portacle/
 [202]: https://github.com/roswell/roswell
 [203]: https://github.com/listp/lisp-machine
+[204]: https://github.com/fukamachi/quri
