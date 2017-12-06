@@ -301,6 +301,7 @@ Natural Language Processing
 
 * [cl-nlp](https://github.com/vseloved/cl-nlp) - Natural language processing toolset. [Apache2.0][89].
 * [babel2](http://emergent-languages.org/Babel2/) - A Fluid Construction Grammar implementation, computational framework, and unification-based grammar formalism [Apache2.0][89].
+* [sparser](https://github.com/ddmcdonald/sparser) - an architecture for analyzing English text. [EPL][7].
 
 
 Network and Internet
@@ -743,6 +744,7 @@ an issue to add a new framework, library or software to the list.
 [4]: https://common-lisp.net/project/armedbear/faq.shtml#qa
 [5]: http://unlicense.org/
 [6]: http://www.gnu.org/software/clisp/impnotes.html
+[7]: http://www.eclipse.org/legal/epl-v10.html
 [8]: http://opensource.franz.com/preamble.html
 [11]: http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
 [13]: http://www.sbcl.org/manual/index.html#ANSI-Conformance
